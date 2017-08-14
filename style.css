@@ -1,6 +1,11 @@
 .h1 {
   color: BrickRed;
-    }
+  }
+
+body {
+  background-image: url("https://int.nyt.com/applications/cooking/static/images/HeroImage.jpg");
+  background-size: cover;
+  }
  
 .img {
   alignment: center;
