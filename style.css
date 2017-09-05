@@ -2,8 +2,9 @@ h1 {
   color: RGB(132, 31, 39);
   }
 
-body {
+.header {
   background-image: url("https://int.nyt.com/applications/cooking/static/images/HeroImage.jpg");
-  background-size: cover;
+  height: 400px;
+  background-position: center center;
   }
  
