@@ -5,7 +5,7 @@ h1 {
 #bannerimage {
   width: 100%;
   background-image: url("https://int.nyt.com/applications/cooking/static/images/HeroImage.jpg");
-  height: 450px;
+  height: 200px;
   background-color: purple;
   background-position: center;
   background-size: cover;
