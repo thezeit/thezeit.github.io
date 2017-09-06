@@ -6,8 +6,15 @@ h1 {
   width: 100%;
   background-image: url("https://int.nyt.com/applications/cooking/static/images/HeroImage.jpg");
   height: 200px;
-  background-color: purple;
+  background-color: black;
   background-position: center;
   background-size: cover;
+}
+
+body {
+  background-image: url(https://s-media-cache-ak0.pinimg.com/originals/dc/ef/f6/dceff6eb8639f46f68f25c36125bdbeb.jpg);
+  background-size: cover;
+  height: 100%;
+  width: 100%;
 }
  
